@@ -15,6 +15,7 @@ Linux Terminal on Ubuntu / Linux Mint
 ```
 sudo gnome-disks
 
+!! Make sure to select the correct drive !!
 sudo hdparm -I /dev/sda
 
 sudo systemctl suspend
