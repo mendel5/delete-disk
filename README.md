@@ -13,7 +13,7 @@ How to delete/ erase a HDD or SSD and similar topics
 Linux Terminal on Ubuntu / Linux Mint
 
 ```
-gnome-disks
+sudo gnome-disks
 
 sudo hdparm -I /dev/sda
 
