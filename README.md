@@ -1,4 +1,4 @@
-# disk-management
+# delete-disk
 How to delete/ erase a HDD or SSD and similar topics
 
 ## Links
