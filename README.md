@@ -30,3 +30,4 @@ Source:
 - https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
 - http://blog.pythonaro.com/2018/05/how-to-securely-wipe-nvme-drive.html
 - https://www.mankier.com/1/nvme-format
+- https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
