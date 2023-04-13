@@ -5,19 +5,24 @@ How to delete/ erase a HDD or SSD and similar topics
 Linux Terminal on Ubuntu / Linux Mint
 
 ```
+# Open Gnome Disks program
 sudo gnome-disks
 
-!! Make sure to select the correct drive !!
+# Get parameters for hard drive. !! Make sure to select the correct drive !!
 sudo hdparm -I /dev/sda
 
 sudo systemctl suspend
 --> Press power button afterwards to resume
 
+# In Gnome Disks do:
 ATA Enhanced Secure Erase
 ```
 
 Source:
 - https://wiki.ubuntuusers.de/SSD/Secure-Erase/
+
+## Todo
+- Differentiate between spinning HDDs (SATA), SATA SSDs and NVMe SSDs
 
 ## Links
 - https://kb.iu.edu/d/aiut
