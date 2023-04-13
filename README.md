@@ -36,3 +36,4 @@ Source:
 - http://blog.pythonaro.com/2018/05/how-to-securely-wipe-nvme-drive.html
 - https://www.mankier.com/1/nvme-format
 - https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
+- https://archive.kernel.org/oldwiki/ata.wiki.kernel.org/index.php/ATA_Secure_Erase.html
