@@ -9,7 +9,7 @@ Source: https://security.stackexchange.com/questions/5749/how-can-i-reliably-era
 ### Tools
 Tools that can be used to execute the "ATA Enhanced Secure Erase" command on SATA HDDs and SATA SSDs:
 - Parted Magic: https://partedmagic.com/
-- hdparm: https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
+- hdparm: https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (`SATA drive` section)
 - SeaTools: https://www.seagate.com/support/downloads/seatools/
 
 ### GUI
@@ -30,7 +30,7 @@ ATA Enhanced Secure Erase
 Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 
 ## NVMe SSDs
-- https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (best)
+- https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (`NVMe drive` section)
 - https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
 
 ## Links
