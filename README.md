@@ -30,13 +30,20 @@ ATA Enhanced Secure Erase
 Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 
 ## NVMe SSDs
+
+### Terminal
 - `Format` or `Sanitize` available
 - https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (`NVMe drive` section)
 - https://superuser.com/questions/1730791/can-someone-help-me-understand-the-differences-between-the-possible-actions-in-n
 - https://tinyapps.org/docs/nvme-sanitize.html
 - https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
+
+### Parted Magic
 - Parted Magic: https://partedmagic.com/
-- Samsung Magician (Windows)
+
+### Manufacturer tools
+- Samsung Magician for Samsung SSDs (Windows)
+- Crucial Storage Executive for Crucial SSDs (Windows)
 
 ## Links
 - https://kb.iu.edu/d/aiut
