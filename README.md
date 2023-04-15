@@ -2,7 +2,6 @@
 How to delete/ erase a HDD or SSD and similar topics
 
 ## SATA HDDs and SSDs
-Quote:
 >The only NIST approved method to securely erase a hard drive is by utilizing the `secure erase` internal command and that is what everyone should be doing. It is an ATA command, and covers (S)ATA interfaces.
 
 Source: https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
