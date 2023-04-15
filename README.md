@@ -22,7 +22,7 @@ Source:
 - https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 
 ## Todo
-- Differentiate between spinning HDDs (SATA), SATA SSDs and NVMe SSDs
+- Differentiate between spinning SATA HDDs, SATA SSDs and NVMe SSDs
 
 ## Links
 - https://kb.iu.edu/d/aiut
@@ -37,3 +37,7 @@ Source:
 - https://www.mankier.com/1/nvme-format
 - https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
 - https://archive.kernel.org/oldwiki/ata.wiki.kernel.org/index.php/ATA_Secure_Erase.html
+- https://www.thomas-krenn.com/de/wiki/SSD_Secure_Erase
+- https://www.thomas-krenn.com/en/wiki/Perform_a_SSD_Secure_Erase
+- https://askubuntu.com/questions/17640/how-can-i-securely-erase-a-hard-drive
+- https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
