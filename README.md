@@ -35,6 +35,8 @@ Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - https://superuser.com/questions/1730791/can-someone-help-me-understand-the-differences-between-the-possible-actions-in-n
 - https://tinyapps.org/docs/nvme-sanitize.html
 - https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
+- Parted Magic: https://partedmagic.com/
+- Samsung Magician (Windows)
 
 ## Links
 - https://kb.iu.edu/d/aiut
