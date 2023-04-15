@@ -30,7 +30,10 @@ ATA Enhanced Secure Erase
 Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 
 ## NVMe SSDs
+- `Format` or `Sanitize` available
 - https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (`NVMe drive` section)
+- https://superuser.com/questions/1730791/can-someone-help-me-understand-the-differences-between-the-possible-actions-in-n
+- https://tinyapps.org/docs/nvme-sanitize.html
 - https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
 
 ## Links
