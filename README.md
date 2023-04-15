@@ -6,6 +6,12 @@ How to delete/ erase a HDD or SSD and similar topics
 
 Source: https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
 
+### Tools
+Tools that can be used to execute the "ATA Enhanced Secure Erase" command on SATA HDDs and SATA SSDs:
+- Parted Magic: https://partedmagic.com/
+- hdparm: see `Terminal` section below
+- SeaTools: https://www.seagate.com/support/downloads/seatools/
+
 ### Terminal
 - https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
 
