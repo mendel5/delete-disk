@@ -6,9 +6,10 @@ How to delete/ erase a HDD or SSD and similar topics
 
 Source: https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
 
-### Commands
-Open a terminal on your Linux system (e.g., Ubuntu or Linux Mint)
+### Terminal
+- https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
 
+### GUI
 ```
 # Open Gnome Disks program
 sudo gnome-disks
@@ -25,12 +26,9 @@ ATA Enhanced Secure Erase
 
 Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 
-
 ## NVMe SSDs
-Placeholder
-
-## Todo
-- Differentiate between spinning SATA HDDs, SATA SSDs and NVMe SSDs
+- https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing (best)
+- https://superuser.com/questions/1530363/how-to-securely-erase-an-nvme-ssd
 
 ## Links
 - https://kb.iu.edu/d/aiut
