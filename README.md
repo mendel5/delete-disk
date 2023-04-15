@@ -1,8 +1,14 @@
 # delete-disk
 How to delete/ erase a HDD or SSD and similar topics
 
-## Commands
-Linux Terminal on Ubuntu / Linux Mint
+## SATA HDDs and SSDs
+Quote:
+>The only NIST approved method to securely erase a hard drive is by utilizing the `secure erase` internal command and that is what everyone should be doing. It is an ATA command, and covers (S)ATA interfaces.
+
+Source: https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
+
+### Commands
+Open a terminal on your Linux system (e.g., Ubuntu or Linux Mint)
 
 ```
 # Open Gnome Disks program
@@ -18,8 +24,11 @@ sudo systemctl suspend
 ATA Enhanced Secure Erase
 ```
 
-Source:
-- https://wiki.ubuntuusers.de/SSD/Secure-Erase/
+Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
+
+
+## NVMe SSDs
+Placeholder
 
 ## Todo
 - Differentiate between spinning SATA HDDs, SATA SSDs and NVMe SSDs
