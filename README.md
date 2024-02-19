@@ -46,8 +46,8 @@ Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - Crucial Storage Executive for Crucial SSDs (Windows)
 
 ## Links
-- https://kb.iu.edu/d/aiut
 - https://github.com/PartialVolume/shredos.x86_64
+- https://kb.iu.edu/d/aiut
 - https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - https://partedmagic.com/secure-erase/
 - https://www.ssdblog.de/2015/01/17/ssd-secure-erase-mit-parted-magic/
