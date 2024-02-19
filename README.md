@@ -45,8 +45,10 @@ Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - Samsung Magician for Samsung SSDs (Windows)
 - Crucial Storage Executive for Crucial SSDs (Windows)
 
-## Links
-- https://github.com/PartialVolume/shredos.x86_64
+## Links 1
+- https://github.com/PartialVolume/shredos.x86_64 Alternative to DBAN
+
+## Links 2
 - https://kb.iu.edu/d/aiut
 - https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - https://partedmagic.com/secure-erase/
