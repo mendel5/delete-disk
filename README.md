@@ -64,3 +64,6 @@ Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - https://www.thomas-krenn.com/en/wiki/Perform_a_SSD_Secure_Erase
 - https://askubuntu.com/questions/17640/how-can-i-securely-erase-a-hard-drive
 - https://security.stackexchange.com/questions/5749/how-can-i-reliably-erase-all-information-on-a-hard-drive
+- https://superuser.com/questions/1518253/ssd-what-is-the-difference-between-sanitize-secure-erase
+- https://support-de.wd.com/app/answers/detailweb/a_id/43893/~/was-ist-der-unterschied-zwischen-secure-erase-und-sanitize%3F
+- https://tinyapps.org/docs/ata_sanitize_hdparm.html
