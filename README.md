@@ -67,3 +67,4 @@ Source: https://wiki.ubuntuusers.de/SSD/Secure-Erase/
 - https://superuser.com/questions/1518253/ssd-what-is-the-difference-between-sanitize-secure-erase
 - https://support-de.wd.com/app/answers/detailweb/a_id/43893/~/was-ist-der-unterschied-zwischen-secure-erase-und-sanitize%3F
 - https://tinyapps.org/docs/ata_sanitize_hdparm.html
+- https://security.stackexchange.com/questions/62253/what-is-the-difference-between-ata-secure-erase-and-security-erase-how-can-i-en
